@@ -25,7 +25,7 @@ It is designed to be:
 
 | # | Certification Name | Issuing Organization | Year |
 |---|--------------------|----------------------|------|
-| 1 | [Oracle Cloud Infrastructure – Certified Generative AI Professional]() | Oracle | 2025 |
+| 1 | [Oracle Cloud Infrastructure – Certified Generative AI Professional](Oracle/Oracle_Generative_AI_Professional_2025.jpg) | Oracle | 2025 |
 | 2 | [Microsoft Certified: Azure AI Fundamentals](Azure/AZURE_AI_FUNDAMENTALS_2025.jpg) | Microsoft | 2025 |
 | 3 | [Microsoft Certified: Azure Fundamentals](Azure/AZURE_FUNDAMENTALS_2025.jpg) | Microsoft | 2025 |
 
