@@ -62,8 +62,8 @@ This certification demonstrates my foundational knowledge of **cloud concepts, A
 
 | # | Certification | Platform | Year |
 |---|---------------|----------|------|
-| 1 | Azure AI Fundamentals | Microsoft | 2025 |
-| 2 | Azure Fundamentals | Microsoft | 2025 |
+| 1 | [Azure AI Fundamentals](AZURE_AI_FUNDAMENTALS_2025.jpg) | Microsoft | 2025 |
+| 2 | [Azure Fundamentals](AZURE_FUNDAMENTALS_2025.jpg) | Microsoft | 2025 |
 
 ---
 
