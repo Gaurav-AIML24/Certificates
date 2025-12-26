@@ -13,7 +13,7 @@
 ## 📜 Oracle Cloud Infrastructure – Certified Generative AI Professional (2025)
 
 <p align="center">
-  <img src="AI/Oracle_Generative_AI_Professional_2025.pdf" alt="Oracle Generative AI Certificate" width="700"/>
+  <img src="Oracle_Generative_AI_Professional_2025.pdf" alt="Oracle Generative AI Certificate" width="700"/>
 </p>
 
 > ⚠️ If preview is not visible,  
