@@ -25,9 +25,9 @@ It is designed to be:
 
 | # | Certification Name | Issuing Organization | Year |
 |---|--------------------|----------------------|------|
-| 1 | Oracle Cloud Infrastructure – Certified Generative AI Professional | :contentReference[oaicite:0]{index=0} | 2025 |
-| 2 | Microsoft Certified: Azure AI Fundamentals | :contentReference[oaicite:1]{index=1} | 2025 |
-| 3 | Microsoft Certified: Azure Fundamentals | :contentReference[oaicite:2]{index=2} | 2025 |
+| 1 | Oracle Cloud Infrastructure – Certified Generative AI Professional | 1 | 2025 |
+| 2 | Microsoft Certified: Azure AI Fundamentals | 2| 2025 |
+| 3 | Microsoft Certified: Azure Fundamentals | 3 | 2025 |
 
 📌 *Official certificate files are included in this repository for verification.*
 
